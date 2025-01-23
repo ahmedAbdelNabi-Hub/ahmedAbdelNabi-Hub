@@ -19,12 +19,12 @@ I'm a Full Stack Developer specializing in **ASP.NET Core** and **Angular**. Wit
 ###
 
 <p align="left">
-**Frameworks & Libraries:** Angular, Angular Material, PrimeNG<br>
-**Languages:** JavaScript, TypeScript, HTML, CSS<br>
-**Styling Tools:** Tailwind CSS, Bootstrap, SCSS<br>
-**State Management:** NgRx (Redux pattern), RxJS<br>
-**Testing Tools:** Unit Testing with Karma and Jasmine<br>
-**Additional Angular Skills:** Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
+Frameworks & Libraries: Angular, Angular Material, PrimeNG<br>
+Languages: JavaScript, TypeScript, HTML, CSS
+Styling Tools: Tailwind CSS, Bootstrap, SCSS
+State Management: NgRx (Redux pattern), RxJS
+Testing Tools: Unit Testing with Karma and Jasmine<br>
+Additional Angular Skills: Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
 </p>
 
 ###
@@ -34,11 +34,11 @@ I'm a Full Stack Developer specializing in **ASP.NET Core** and **Angular**. Wit
 ###
 
 <p align="left">
-**Frameworks:** ASP.NET Core, Web API, MVC<br>
-**Database Tools:** LINQ, Entity Framework Core, Dapper<br>
-**Databases:** SQL Server, Oracle, MySQL, Redis<br>
-**Authentication & Security:** Identity Server, JWT, OAuth<br>
-**Additional .NET Skills:** Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR for real-time communication, Unit Testing with xUnit, Logging with Serilog
+Frameworks: ASP.NET Core, Web API, MVC
+Database Tools: LINQ, Entity Framework Core, Dapper
+Databases: SQL Server, Oracle, MySQL, Redis
+Authentication & Security: Identity Server, JWT, OAuth
+Additional .NET Skills: Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR for real-time communication, Unit Testing with xUnit, Logging with Serilog
 </p>
 
 ###
