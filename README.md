@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="138" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSffTDGgLLyIKAfdU9XgcQVyzo-VpxFl4op9w&s" />
+  <img height="138" src="png.png" />
 
 ###
 
