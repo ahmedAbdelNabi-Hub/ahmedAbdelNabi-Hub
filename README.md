@@ -7,7 +7,10 @@
 
 ###
 
-<p align="left">Hi, I'm Ahmed Abd El Nabi! 🚀<br>I'm a Full Stack Developer specializing in ASP.NET Core and Angular. With a passion for creating dynamic, scalable, and efficient web applications, I enjoy building end-to-end solutions that make an impact.</p>
+<p align="left">
+Hi, I'm Ahmed Abd El Nabi! 🚀<br>
+I'm a Full Stack Developer specializing in **ASP.NET Core** and **Angular**. With a passion for creating dynamic, scalable, and efficient web applications, I enjoy building end-to-end solutions that make an impact.
+</p>
 
 ###
 
@@ -15,7 +18,14 @@
 
 ###
 
-<p align="left">Frameworks & Libraries: Angular, Angular Material, PrimeNG<br>Languages: JavaScript, TypeScript, HTML, CSS<br>Styling Tools: Tailwind CSS, Bootstrap<br>State Management: NgRx (Redux pattern), RxJS<br>Testing Tools: Unit Testing with Karma</p>
+<p align="left">
+**Frameworks & Libraries:** Angular, Angular Material, PrimeNG<br>
+**Languages:** JavaScript, TypeScript, HTML, CSS<br>
+**Styling Tools:** Tailwind CSS, Bootstrap, SCSS<br>
+**State Management:** NgRx (Redux pattern), RxJS<br>
+**Testing Tools:** Unit Testing with Karma and Jasmine<br>
+**Additional Angular Skills:** Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
+</p>
 
 ###
 
@@ -23,7 +33,13 @@
 
 ###
 
-<p align="left">Frameworks: ASP.NET Core, Web API, MVC<br>Database Tools: LINQ, Entity Framework, Dapper<br>Databases: SQL Server, Oracle</p>
+<p align="left">
+**Frameworks:** ASP.NET Core, Web API, MVC<br>
+**Database Tools:** LINQ, Entity Framework Core, Dapper<br>
+**Databases:** SQL Server, Oracle, MySQL, Redis<br>
+**Authentication & Security:** Identity Server, JWT, OAuth<br>
+**Additional .NET Skills:** Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR for real-time communication, Unit Testing with xUnit, Logging with Serilog
+</p>
 
 ###
 
@@ -68,9 +84,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ahmedAbdelNabi-Hub/ahmedAbdelNabi-Hub/output/snake.svg" alt="Snake animation" />
 
 ###
