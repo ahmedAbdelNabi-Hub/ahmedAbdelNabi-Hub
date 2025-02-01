@@ -94,13 +94,3 @@
 
 ###
 
-<style>
-  body {
-    background-color: #f7fafc;
-    font-family: 'Arial', sans-serif;
-    color: #4A5568;
-  }
-  h2, h3 {
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
-  }
-</style>
