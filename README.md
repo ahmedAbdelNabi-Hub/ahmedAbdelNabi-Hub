@@ -20,13 +20,41 @@
 ###
 
 <p align="left" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.5; color: #4A5568;">
-  <strong>Frameworks & Libraries:</strong> Angular, Angular Material, PrimeNG<br>
-  <strong>Languages:</strong> JavaScript, TypeScript, HTML, CSS<br>
-  <strong>Styling Tools:</strong> Tailwind CSS, Bootstrap, SCSS<br>
-  <strong>State Management:</strong> NgRx (Redux pattern), RxJS<br>
-  <strong>Testing Tools:</strong> Unit Testing with Karma and Jasmine<br>
-  <strong>Additional Angular Skills:</strong> Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
+  <strong>Frameworks & Libraries:</strong> 
+  <span title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular icon" /></span>
+  <span title="Angular Material"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular material icon" /></span>
+  <span title="PrimeNG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="primeng icon" /></span><br>
+
+  <strong>Languages:</strong> 
+  <span title="JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" /></span>
+  <span title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></span>
+  <span title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></span>
+  <span title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /></span><br>
+
+  <strong>Styling Tools:</strong>
+  <span title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" /></span>
+  <span title="Bootstrap"><img src="https://cdn.simpleicons.org/bootstrap/563D7C" height="40" alt="bootstrap logo" /></span>
+  <span title="SCSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" /></span><br>
+
+  <strong>State Management:</strong> 
+  <span title="NgRx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg" height="40" alt="ngrx logo" /></span>
+  <span title="RxJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="rxjs logo" /></span><br>
+
+  <strong>Testing Tools:</strong> 
+  <span title="Karma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="40" alt="karma logo" /></span>
+  <span title="Jasmine"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="40" alt="jasmine logo" /></span><br>
+
+  <strong>Additional Angular Skills:</strong> 
+  <span title="Dynamic Components"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="dynamic components icon" /></span>
+  <span title="Lazy Loading"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="lazy loading icon" /></span>
+  <span title="Route Guards"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="route guards icon" /></span>
+  <span title="Dependency Injection"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="dependency injection icon" /></span>
+  <span title="Reactive Forms"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="reactive forms icon" /></span>
+  <span title="Template-Driven Forms"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="template-driven forms icon" /></span>
+  <span title="Custom Pipes & Directives"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="pipes and directives icon" /></span>
+  <span title="Observables"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" height="40" alt="observables icon" /></span>
 </p>
+
 
 ###
 
