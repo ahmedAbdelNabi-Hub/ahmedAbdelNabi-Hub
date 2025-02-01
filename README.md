@@ -2,43 +2,48 @@
   <img height="138" src="png.png" alt="Profile Image" />
 </div>
 
+### 
+<h2 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748;">
+  Welcome to My GitHub Profile! 👋
+</h2>
 ###
 
-<h2 align="left">Welcome to My GitHub Profile! 👋</h2>
+<p align="left" style="font-family: 'Arial', sans-serif; font-size: 18px; line-height: 1.6; color: #4A5568;">
+  Hi, I'm <strong>Ahmed Abd El Nabi</strong>! 🚀<br>
+  I'm a passionate Full Stack Developer specializing in <strong>ASP.NET Core</strong> and <strong>Angular</strong>. With a strong drive to create dynamic, scalable, and efficient web applications, I love building end-to-end solutions that have a real-world impact. Let's collaborate and bring ideas to life!
+</p>
+
+### 
+<h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #2D3748;">
+  Frontend Development
+</h3>
+###
+
+<p align="left" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.5; color: #4A5568;">
+  <strong>Frameworks & Libraries:</strong> Angular, Angular Material, PrimeNG<br>
+  <strong>Languages:</strong> JavaScript, TypeScript, HTML, CSS<br>
+  <strong>Styling Tools:</strong> Tailwind CSS, Bootstrap, SCSS<br>
+  <strong>State Management:</strong> NgRx (Redux pattern), RxJS<br>
+  <strong>Testing Tools:</strong> Unit Testing with Karma and Jasmine<br>
+  <strong>Additional Angular Skills:</strong> Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
+</p>
+
+###
+<h3 align="left" style="font-family: 'Arial', sans-serif; font-size: 20px; color: #2D3748;">
+  Backend Development
+</h3>
+###
+
+<p align="left" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.5; color: #4A5568;">
+  <strong>Frameworks:</strong> ASP.NET Core, Web API, MVC<br>
+  <strong>Database Tools:</strong> LINQ, Entity Framework Core, Dapper<br>
+  <strong>Databases:</strong> SQL Server, Oracle, MySQL, Redis<br>
+  <strong>Authentication & Security:</strong> Identity Server, JWT, OAuth<br>
+  <strong>Additional .NET Skills:</strong> Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR for real-time communication, Unit Testing with xUnit, Logging with Serilog
+</p>
 
 ###
 
-<p align="left">
-  Hi, I'm **Ahmed Abd El Nabi**! 🚀<br>
-  I'm a **Full Stack Developer** specializing in **ASP.NET Core** and **Angular**. I build dynamic, scalable, and efficient web applications, focusing on delivering end-to-end solutions that drive impact.
-</p>
-
----
-
-### **Frontend Development**
-<p align="left">
-  - **Frameworks & Libraries:** Angular, Angular Material, PrimeNG<br>
-  - **Languages:** JavaScript, TypeScript, HTML, CSS<br>
-  - **Styling Tools:** Tailwind CSS, Bootstrap, SCSS<br>
-  - **State Management:** NgRx (Redux pattern), RxJS<br>
-  - **Testing Tools:** Unit Testing with Karma and Jasmine<br>
-  - **Additional Angular Skills:** Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
-</p>
-
----
-
-### **Backend Development**
-<p align="left">
-  - **Frameworks:** ASP.NET Core, Web API, MVC<br>
-  - **Database Tools:** LINQ, Entity Framework Core, Dapper<br>
-  - **Databases:** SQL Server, Oracle, MySQL, Redis<br>
-  - **Authentication & Security:** Identity Server, JWT, OAuth<br>
-  - **Additional .NET Skills:** Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR for real-time communication, Unit Testing with xUnit, Logging with Serilog
-</p>
-
----
-
-### **Tech Stack**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
   <img width="12" />
@@ -81,8 +86,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
----
-
+### 
 <div align="center">
-  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748;">Let's Build Something Amazing Together! 🚀</h3>
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748; font-size: 24px;">Let's Build Something Amazing Together! 🚀</h3>
 </div>
