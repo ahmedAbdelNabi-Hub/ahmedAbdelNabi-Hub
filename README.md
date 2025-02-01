@@ -4,22 +4,22 @@
 
 ###
 
-<h2 align="left">Welcome to My GitHub Profile! 👋</h2>
+<h2 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748;">Welcome to My GitHub Profile! 👋</h2>
 
 ###
 
-<p align="left">
+<p align="left" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.5; color: #4A5568;">
   Hi, I'm Ahmed Abd El Nabi! 🚀<br>
-  I'm a Full Stack Developer specializing in **ASP.NET Core** and **Angular**. With a passion for creating dynamic, scalable, and efficient web applications, I enjoy building end-to-end solutions that make an impact.
+  I'm a Full Stack Developer specializing in <strong>ASP.NET Core</strong> and <strong>Angular</strong>. With a passion for creating dynamic, scalable, and efficient web applications, I enjoy building end-to-end solutions that make an impact.
 </p>
 
 ###
 
-<h3 align="left">Frontend Development</h3>
+<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748;">Frontend Development</h3>
 
 ###
 
-<p align="left">
+<p align="left" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.5; color: #4A5568;">
   <strong>Frameworks & Libraries:</strong> Angular, Angular Material, PrimeNG<br>
   <strong>Languages:</strong> JavaScript, TypeScript, HTML, CSS<br>
   <strong>Styling Tools:</strong> Tailwind CSS, Bootstrap, SCSS<br>
@@ -30,11 +30,11 @@
 
 ###
 
-<h3 align="left">Backend Development</h3>
+<h3 align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748;">Backend Development</h3>
 
 ###
 
-<p align="left">
+<p align="left" style="font-family: 'Arial', sans-serif; font-size: 16px; line-height: 1.5; color: #4A5568;">
   <strong>Frameworks:</strong> ASP.NET Core, Web API, MVC<br>
   <strong>Database Tools:</strong> LINQ, Entity Framework Core, Dapper<br>
   <strong>Databases:</strong> SQL Server, Oracle, MySQL, Redis<br>
@@ -87,3 +87,20 @@
 </div>
 
 ###
+
+<div align="center">
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2D3748;">Let's Build Something Amazing Together! 🚀</h3>
+</div>
+
+###
+
+<style>
+  body {
+    background-color: #f7fafc;
+    font-family: 'Arial', sans-serif;
+    color: #4A5568;
+  }
+  h2, h3 {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  }
+</style>
