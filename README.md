@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="138" src="png.png" alt="Profile Image" />
+  <img height="138" src="https://avatars.githubusercontent.com/u/your-profile-id" alt="Ahmed Abdel Nabi" />
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-  Hi, I'm **Ahmed Abd El Nabi**! 🚀<br>
+  Hi, I'm **Ahmed Abdel Nabi**! 🚀<br>
   I'm a **Full Stack Developer** specializing in **ASP.NET Core** and **Angular**. I build dynamic, scalable, and efficient web applications, focusing on delivering end-to-end solutions that drive impact.
 </p>
 
@@ -85,25 +85,25 @@
 
 ### **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedAbdelNabi-Hub&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedAbdelNabi-Hub&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### **Top Languages**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAbdelNabi-Hub&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ### **Let's Connect!**
 <p align="left">
-  - 📫 Reach me at: **YourEmail@example.com**<br>
-  - 💼 Connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)<br>
-  - 🌐 Visit my portfolio: [Your Portfolio Website](https://yourportfolio.com)
+  - 📫 Reach me at: **abdalnabyahmed724@gmail.com**<br>
+  - 💼 Connect on LinkedIn: [Ahmed Abdel Nabi](https://www.linkedin.com/in/ahmed-abdel-nabi)<br>
+  - 🌐 Visit my portfolio: [My Portfolio](https://ahmedabdelnabi.com)
 </p>
 
 ---
