@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="138" src="A New Design - Made with PosterMyWall.jpg" alt="Ahmed Abdel Nabi" />
+<img src="A New Design - Made with PosterMyWall.jpg" alt="Ahmed Abdel Nabi" style="width: 100%;" />
 </div>
 
 ###
