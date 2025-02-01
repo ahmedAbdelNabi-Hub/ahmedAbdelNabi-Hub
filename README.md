@@ -13,7 +13,7 @@
   I'm a **Full Stack Developer** specializing in **ASP.NET Core** and **Angular**. I build dynamic, scalable, and efficient web applications, focusing on delivering end-to-end solutions that drive impact.
 </p>
 
----
+
 
 ### **Frontend Development**
 <p align="left">
@@ -25,7 +25,7 @@
   - **Additional Angular Skills:** Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
 </p>
 
----
+
 
 ### **Backend Development**
 <p align="left">
@@ -36,7 +36,7 @@
   - **Additional .NET Skills:** Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR for real-time communication, Unit Testing with xUnit, Logging with Serilog
 </p>
 
----
+
 
 ### **Tech Stack**
 <div align="left">
@@ -81,23 +81,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
----
 
 ### **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedAbdelNabi-Hub&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedAbdelNabi-Hub&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
 
 ### **Top Languages**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAbdelNabi-Hub&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
----
+
 
 ### **Let's Connect!**
 <p align="left">
