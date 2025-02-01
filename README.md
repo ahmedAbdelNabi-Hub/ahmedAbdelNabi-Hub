@@ -25,6 +25,10 @@
   - **Additional Angular Skills:** Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive Forms, Template-Driven Forms, Custom Pipes & Directives, Observables
 </p>
 
+### **Top Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAbdelNabi-Hub&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 
 ### **Backend Development**
@@ -86,12 +90,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedAbdelNabi-Hub&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
-### **Top Languages**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAbdelNabi-Hub&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
 
 
 ### **Let's Connect!**
