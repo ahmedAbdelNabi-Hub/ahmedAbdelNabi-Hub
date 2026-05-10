@@ -1,10 +1,4 @@
-<div align="center" style="background: linear-gradient(180deg, #0F172A 0%, #1E293B 100%); padding: 50px; border-radius: 20px; box-shadow: 0 12px 48px rgba(0, 0, 0, 0.4); margin-bottom: 40px;">
-  <img src="ll.jpg" alt="Ahmed Abdel Nabi" style="width: 200px; height: 200px; border-radius: 50%; border: 6px solid #10B981; transition: all 0.5s ease;" onmouseover="this.style.borderColor='#F59E0B'; this.style.transform='rotate(360deg) scale(1.15)'" onmouseout="this.style.borderColor='#10B981'; this.style.transform='rotate(0deg) scale(1)'" />
-  <h1 style="font-family: 'Inter', sans-serif; color: #F8FAFC; font-size: 3.2em; margin: 20px 0; text-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);">Ahmed Abdel Nabi</h1>
-  <p style="font-family: 'Inter', sans-serif; color: #A1A1AA; font-size: 1.4em; max-width: 650px; line-height: 1.6;">Full Stack Developer | Building Scalable Web Solutions with <strong>ASP.NET Core</strong> & <strong>Angular</strong> | Curator of Exclusive Developer Tools & Deals</p>
-</div>
 
----
 
 ## 🚀 About Me
 <div style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); font-family: 'Inter', sans-serif; color: #F8FAFC; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
