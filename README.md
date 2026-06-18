@@ -6,19 +6,10 @@
 **Email:** ahmed.abdelnabi.eng@gmail.com  
 **Phone:** +20 114 364 2717  
 **LinkedIn:** https://www.linkedin.com/in/ahmed-abdel-nabi-o0  
-**GitHub:** https://github.com/ahmedAbdelNabi-Hub  
 **Company:** https://xpertfusions.com
 
----
-
-Building scalable, secure, and high-performance enterprise applications using ASP.NET Core, Angular, and Clean Architecture.
-
----
-
 ## About Me
-
 Full Stack .NET Developer at **XpertFusion** with 1+ years of experience building enterprise ERP systems.
-
 Experienced in designing scalable business applications and delivering production-ready solutions across Sales, Purchasing, Human Resources, Custody, Loan, Payroll, Fleet Management, and Inventory domains.
 
 Strong expertise in:
@@ -48,7 +39,6 @@ Currently focused on building modern SaaS ERP platforms and enterprise business 
 **August 2025 – Present**
 
 Developed and maintained enterprise ERP systems using ASP.NET MVC, ASP.NET Core, Angular, DevExpress, DevExtreme, C#, and SQL Server.
-
 Designed and implemented business modules including:
 
 - Sales
@@ -59,11 +49,8 @@ Designed and implemented business modules including:
 - Payroll
 
 Designed multi-level approval workflows to automate business processes.
-
 Developed secure REST APIs and optimized SQL Server performance.
-
 Participated in Ministry of Health stakeholder meetings to gather requirements for a Contract Management System.
-
 Developed the Sendepad Fuel & Fleet Management Platform including:
 
 - Fuel Station Management
