@@ -1,108 +1,181 @@
+# Ahmed Abdel Nabi
 
+## Full Stack .NET Developer | ASP.NET Core | Angular | Enterprise ERP Systems
 
-## 🚀 About Me
-<div style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); font-family: 'Inter', sans-serif; color: #F8FAFC; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  Hello! I'm <strong>Ahmed Abdel Nabi</strong>, a dedicated Full Stack Developer passionate about crafting high-performance, user-centric web applications. With expertise in <strong>ASP.NET Core</strong> and <strong>Angular</strong>, I deliver end-to-end solutions that drive innovation. Inspired by platforms like <strong>Dealsbe</strong>, I also love exploring and sharing the best software tools and deals for developers and startups. Let's build something extraordinary! 🌟
-</div>
-
----
-
-## 🌟 Frontend Expertise
-<div style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); font-family: 'Inter', sans-serif; color: #F8FAFC; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color: #10B981; font-size: 1.9em; margin-bottom: 20px;">Frontend Development</h3>
-  <ul style="color: #D1D5DB; list-style: none; padding: 0; line-height: 2;">
-    <li>🖼️ <strong>Frameworks & Libraries:</strong> Angular, Angular Material, PrimeNG</li>
-    <li>💻 <strong>Languages:</strong> JavaScript, TypeScript, HTML5, CSS3</li>
-    <li>🎨 <strong>Styling:</strong> Tailwind CSS, Bootstrap, SCSS</li>
-    <li>🧠 <strong>State Management:</strong> NgRx (Redux), RxJS</li>
-    <li>🧪 <strong>Testing:</strong> Karma, Jasmine</li>
-    <li>⚙️ <strong>Advanced:</strong> Dynamic Components, Lazy Loading, Route Guards, Dependency Injection, Reactive & Template-Driven Forms, Custom Pipes, Directives, Observables</li>
-  </ul>
-</div>
+**Location:** Cairo, Egypt  
+**Email:** ahmed.abdelnabi.eng@gmail.com  
+**Phone:** +20 114 364 2717  
+**LinkedIn:** https://www.linkedin.com/in/ahmed-abdel-nabi-o0  
+**GitHub:** https://github.com/ahmedAbdelNabi-Hub  
+**Company:** https://xpertfusions.com
 
 ---
 
-## 🛠️ Backend Expertise
-<div style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); font-family: 'Inter', sans-serif; color: #F8FAFC; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color: #10B981; font-size: 1.9em; margin-bottom: 20px;">Backend Development</h3>
-  <ul style="color: #D1D5DB; list-style: none; padding: 0; line-height: 2;">
-    <li>⚙️ <strong>Frameworks:</strong> ASP.NET Core, Web API, MVC</li>
-    <li>🗄️ <strong>Database Tools:</strong> LINQ, Entity Framework Core, Dapper</li>
-    <li>💾 <strong>Databases:</strong> SQL Server, Oracle, MySQL, Redis</li>
-    <li>🔐 <strong>Security:</strong> Identity Server, JWT, OAuth</li>
-    <li>🚀 <strong>Advanced:</strong> Dependency Injection, Middleware, CQRS, Clean Architecture, SignalR, xUnit, Serilog</li>
-  </ul>
-</div>
+Building scalable, secure, and high-performance enterprise applications using ASP.NET Core, Angular, and Clean Architecture.
 
 ---
 
-## 💡 Developer Tools & Deals
-<div style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); font-family: 'Inter', sans-serif; color: #F8FAFC; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <h3 style="color: #F59E0B; font-size: 1.9em; margin-bottom: 20px;">Exclusive Software Deals for Developers</h3>
-  <p style="color: #D1D5DB; line-height: 1.8;">Inspired by <strong>Dealsbe</strong>, I curate and share the best software tools and deals to empower developers and startups. Below are some of my top recommendations for tools that enhance productivity and streamline development workflows:</p>
-  <ul style="color: #D1D5DB; list-style: none; padding: 0; line-height: 2;">
-    <li>🔧 <strong>Postman:</strong> Simplify API testing and development with powerful collaboration features.</li>
-    <li>📊 <strong>JetBrains Rider:</strong> A fast, cross-platform IDE for .NET and C# development.</li>
-    <li>🛠️ <strong>Visual Studio Code:</strong> Lightweight, customizable code editor with robust extensions.</li>
-    <li>🚀 <strong>NgRx Store:</strong> State management for Angular applications, perfect for complex projects.</li>
-  </ul>
-  <p style="color: #D1D5DB; margin-top: 20px;">
-    <a href="https://ahmedabdelnabi.com/deals" style="color: #10B981; text-decoration: none; font-weight: bold; transition: color 0.3s ease;" onmouseover="this.style.color='#F59E0B'" onmouseout="this.style.color='#10B981'">Post or Explore More Deals</a>
-  </p>
-</div>
+## About Me
+
+Full Stack .NET Developer at **XpertFusion** with 1+ years of experience building enterprise ERP systems.
+
+Experienced in designing scalable business applications and delivering production-ready solutions across Sales, Purchasing, Human Resources, Custody, Loan, Payroll, Fleet Management, and Inventory domains.
+
+Strong expertise in:
+
+- ASP.NET Core
+- ASP.NET MVC
+- Angular
+- C#
+- SQL Server
+- Entity Framework Core
+- REST APIs
+- Clean Architecture
+- Performance Optimization
+- Multi-Level Approval Workflows
+- Multi-Tenant SaaS Architecture
+
+Graduated from **Helwan University** with a Bachelor's degree in Computer Science (Excellent).
+
+Currently focused on building modern SaaS ERP platforms and enterprise business solutions.
 
 ---
 
-## 📊 Top Languages
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAbdelNabi-Hub&layout=compact&theme=transparent&hide_border=true&bg_color=1E293B&title_color=10B981&text_color=D1D5DB&custom_title=Most%20Used%20Languages" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);" />
-</div>
+## Professional Experience
+
+### Full Stack Developer — XpertFusion (Remote, Riyadh, Saudi Arabia)
+
+**August 2025 – Present**
+
+Developed and maintained enterprise ERP systems using ASP.NET MVC, ASP.NET Core, Angular, DevExpress, DevExtreme, C#, and SQL Server.
+
+Designed and implemented business modules including:
+
+- Sales
+- Purchasing
+- Human Resources
+- Custody
+- Loan Management
+- Payroll
+
+Designed multi-level approval workflows to automate business processes.
+
+Developed secure REST APIs and optimized SQL Server performance.
+
+Participated in Ministry of Health stakeholder meetings to gather requirements for a Contract Management System.
+
+Developed the Sendepad Fuel & Fleet Management Platform including:
+
+- Fuel Station Management
+- POS Operations
+- Daily Closing
+- Driver Tracking
+- Transportation Management
+- Attendance System
+- Google Maps Integration
+- Workforce Tracking
+- Operational Reporting
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center" style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" alt="javascript logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="60" alt="typescript logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="60" alt="redux logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=reactivex" height="60" alt="reactivex logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/jasmine/8A4182" height="60" alt="jasmine logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" height="60" alt="karma logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="jira logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.simpleicons.org/nuget/004880" height="60" alt="nuget logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" style="margin: 15px; transition: transform 0.4s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
+## Featured Project
+
+### Multi-Tenant Inventory ERP
+
+**Technologies**
+
+- .NET 8
+- ASP.NET Core
+- Angular 20
+- Entity Framework Core 8
+- SQL Server
+
+**Key Features**
+
+- Multi-Tenant Architecture
+- Branch Isolation
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Dynamic Permission Management
+- Inventory Management
+- Warehouse Management
+- Purchasing
+- Sales Orders
+- Inventory Transfers
+- Multi-Branch Support
+- Arabic & English
+- RTL Support
 
 ---
 
-## 📈 Contribution Stats
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedAbdelNabi-Hub&theme=transparent&hide_border=true&background=1E293B&stroke=10B981&ring=F59E0B&fire=F59E0B&currStreakNum=D1D5DB&sideNums=D1D5DB&currStreakLabel=10B981&sideLabels=D1D5DB" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 6px 24px rgba(0, 0, 0, 0.2);" />
-</div>
+## Technical Skills
+
+### Backend
+
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Entity Framework Core
+- LINQ
+- Dapper
+- SQL Server
+- REST APIs
+- JWT Authentication
+- Identity
+- Clean Architecture
+- CQRS
+- Dependency Injection
+- Middleware
+- SignalR
+- Serilog
+
+### Frontend
+
+- Angular
+- Angular Material
+- DevExtreme
+- DevExpress
+- PrimeNG
+- RxJS
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- SCSS
+- Bootstrap
+- Tailwind CSS
+
+### Database
+
+- SQL Server
+- MySQL
+- Oracle
+- Redis
+
+### Tools
+
+- Git
+- GitHub
+- Azure DevOps
+- Visual Studio
+- Visual Studio Code
+- Postman
+- Jira
 
 ---
 
-## 🤝 Connect With Me
-<div style="background: #1E293B; padding: 30px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); font-family: 'Inter', sans-serif; color: #D1D5DB;">
-  <p style="font-size: 1.3em; line-height: 2;">
-    <a href="mailto:abdalnabyahmed724@gmail.com" style="color: #10B981; text-decoration: none; font-weight: bold; transition: color 0.3s ease;" onmouseover="this.style.color='#F59E0B'" onmouseout="this.style.color='#10B981'">📧 abdalnabyahmed724@gmail.com</a><br>
-    <a href="https://www.linkedin.com/in/ahmed-abdel-nabi" style="color: #10B981; text-decoration: none; font-weight: bold; transition: color 0.3s ease;" onmouseover="this.style.color='#F59E0B'" onmouseout="this.style.color='#10B981'">💼 LinkedIn Profile</a><br>
-    <a href="https://ahmedabdelnabi.com" style="color: #10B981; text-decoration: none; font-weight: bold; transition: color 0.3s ease;" onmouseover="this.style.color='#F59E0B'" onmouseout="this.style.color='#10B981'">🌐 Portfolio Website</a>
-  </p>
-</div>
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedAbdelNabi-Hub&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAbdelNabi-Hub&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedAbdelNabi-Hub&theme=tokyonight&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedAbdelNabi-Hub&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmedAbdelNabi-Hub&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
-<div align="center" style="font-family: 'Inter', sans-serif; margin: 50px 0;">
-  <h3 style="color: #10B981; font-size: 2.2em; text-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);">Let’s Create the Future Together! 🚀</h3>
-  <p style="color: #A1A1AA; font-size: 1.3em; max-width: 750px; margin: 0 auto;">Dive into my repositories to explore my projects, discover top developer tools, or reach out to collaborate on innovative solutions!</p>
-</div>
+> *"Building scalable enterprise software with clean architecture, modern technologies, and real business impact."*
